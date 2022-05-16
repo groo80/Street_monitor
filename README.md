@@ -7,9 +7,12 @@ Purpose: learn how to start object detection on pi on my own.
 
 Step 1: install hardware: Done (raspberry pi 4 + camera)
 Step 2: install openCV
-Following these steps - https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/
-Step 3: 
-
+Following these steps for openCV- https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html
+** Finally top one, previous 2 were tried but seem old.
+https://littlebirdelectronics.com.au/guides/165/set-up-opencv-on-raspberry-pi-4
+note - lib___dev12 not found. Check, if not working investigate
+YOLO
+https://medium.datadriveninvestor.com/object-detection-with-raspberry-pi-and-python-bc6b3a1d4972
 
 Plan: 
 1 - Yolo - detect objects

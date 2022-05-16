@@ -8,3 +8,4 @@ camera.start_preview(alpha = 200)
 sleep(5)
 
 camera.stop_preview()
+camera.capture('image.jpg')
